@@ -1,7 +1,11 @@
-# Crypto forecast by machine learning
+# Crypto forecast by Long Short-Term Memory (LSTM) model
 
-## Environment
+## Prediction performance
+
+![alt](prediction.png)
+
+## Computational Environment
 
 - Python 3.8
-- tensorflow 2.3
-- numpy 1.19.5
+- TensorFlow 2.3
+- NumPy 1.19.5
